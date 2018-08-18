@@ -7,12 +7,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calc", "Calc\Calc.vcxproj",
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - File in|x64 = Debug - File in|x64
+		Debug - File in|x86 = Debug - File in|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug - File in|x64.ActiveCfg = Debug - File in|x64
+		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug - File in|x64.Build.0 = Debug - File in|x64
+		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug - File in|x86.ActiveCfg = Debug - File in|Win32
+		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug - File in|x86.Build.0 = Debug - File in|Win32
 		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug|x64.ActiveCfg = Debug|x64
 		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug|x64.Build.0 = Debug|x64
 		{B4DD4417-E6B1-4EB7-B59B-44334FB3523D}.Debug|x86.ActiveCfg = Debug|Win32
