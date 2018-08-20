@@ -27,12 +27,18 @@
     <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ParsedLine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Calc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParsedLine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -43,6 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="README.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
